@@ -3,3 +3,5 @@ $ git status
 $ git add chapter1.txt
   git log
   $ git commit -m "Chapter 1 Complete"
+  git branch name
+  git checkout branch
